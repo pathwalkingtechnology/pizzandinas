@@ -1,0 +1,32 @@
+.logo {
+  margin: 10px;
+  padding: 10px;
+}
+
+.logo img {
+  width: 100px;
+  height: 50px;
+  object-fit: contain;
+}
+.header {
+  background-color: #333;
+  color: #fff;
+  padding: 1rem;
+  text-align: center;
+}
+
+.header nav ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.header nav ul li {
+  display: inline-block;
+  margin-right: 20px;
+}
+
+.header nav a {
+  color: #fff;
+  text-decoration: none;
+}
